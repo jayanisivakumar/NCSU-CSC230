@@ -1,0 +1,5 @@
+add z
+add y
+add x
+invalid-command w
+get 4

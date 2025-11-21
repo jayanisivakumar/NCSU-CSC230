@@ -1,0 +1,12 @@
+add A
+add B
+add C
+add D
+add E
+add F
+add G
+add H
+add I
+add J
+size
+quit

@@ -1,0 +1,7 @@
+add hello
+add hello
+query 0 1
+set 0 test
+query 0 0
+get 10
+remove extra

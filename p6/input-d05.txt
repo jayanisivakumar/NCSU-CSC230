@@ -1,0 +1,14 @@
+add red
+add orange
+add green
+add blue
+query 0 3
+remove
+query 0 2
+remove
+query 0 1
+remove
+query 0 0
+remove
+size
+quit

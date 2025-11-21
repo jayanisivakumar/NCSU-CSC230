@@ -1,0 +1,2 @@
+add hello
+set 1 world extra

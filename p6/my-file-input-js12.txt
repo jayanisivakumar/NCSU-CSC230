@@ -1,0 +1,2 @@
+add alpha
+query 2 1

@@ -1,0 +1,6 @@
+add testing
+size
+add segment
+size
+add tree
+size

@@ -1,0 +1,18 @@
+add xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+add wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+add vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+add uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+add tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+get 0
+get 1
+get 2
+get 3
+get 4
+query 0 4
+set 3 sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+get 3
+query 0 4
+remove
+remove
+query 0 2
+quit

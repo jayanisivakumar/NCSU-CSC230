@@ -1,0 +1,2 @@
+add hello
+set 5 world

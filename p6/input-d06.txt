@@ -1,0 +1,13 @@
+add soul
+add time
+add reality
+size
+get 1
+add space
+query 0 3
+remove
+set 1 power
+query 1 2
+add mind
+query 0 3
+quit

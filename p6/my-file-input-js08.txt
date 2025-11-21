@@ -1,0 +1,12 @@
+
+
+add hello
+size
+get 0
+set 0 world
+get 0
+add apple
+query 0 1
+remove
+size
+quit

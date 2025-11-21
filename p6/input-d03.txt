@@ -1,0 +1,11 @@
+add ball
+add cat
+add apple
+query 0 2
+query 0 1
+query 1 2
+add aardvark
+query 0 3
+query 1 2
+query 1 3
+quit
