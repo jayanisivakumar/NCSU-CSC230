@@ -1,0 +1,19 @@
+Model,Encoder,Task
+ERNIE,Transformer,CoLA
+T5 I,Transformer,CoLA
+RoBERTa,Transformer,CoLA
+RoBERTa,Transformer,SST-2
+BERT,Transformer,SST-2
+BiLSTM+ELMo,LSTM,SST-2
+BiLSTM+CoVe,LSTM,SST-2
+BiLSTM+ELMo,LSTM,MRPC
+BiLSTM+CoVe,LSTM,MRPC
+BiLSTM+Attn,LSTM,MRPC
+ERNIE,Transformer,STS-B
+T5 II,Transformer,STS-B
+RoBERTa,Transformer,STS-B
+RoBERTa,Transformer,QNLI
+ERNIE,Transformer,RTE
+T5 I,Transformer,RTE
+RoBERTa,Transformer,RTE
+BERT,Transformer,RTE

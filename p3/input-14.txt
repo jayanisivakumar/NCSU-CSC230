@@ -1,0 +1,3 @@
+2 26
+29,44,73,80,24,71,56,40,70,2,42,41,6,26,96,5,43,55,80,56,99,9,61,34,27,18
+mul(div(X1,R1),sub(M1,O1)),mul(sub(R1,X1),add(J1,Y1)),sub(sub(D1,B1),add(F1,S1)),add(div(C1,B1),mul(N1,E1)),add(sub(Y1,G1),add(X1,X1)),sub(add(L1,O1),sub(E1,L1)),sub(sub(M1,P1),mul(P1,Q1)),div(mul(K1,H1),mul(P1,K1)),add(mul(O1,Q1),div(N1,W1)),div(add(U1,E1),add(H1,S1)),mul(mul(G1,B1),div(U1,Q1)),mul(div(J1,J1),mul(V1,S1)),add(add(D1,K1),mul(T1,B1)),sub(add(X1,M1),sub(T1,R1)),sub(div(L1,J1),sub(T1,N1)),add(sub(F1,W1),sub(Q1,F1)),div(add(A1,F1),add(D1,R1)),div(mul(S1,O1),div(S1,B1)),add(div(U1,V1),mul(H1,F1)),div(div(S1,A1),add(X1,W1)),sub(add(C1,A1),add(E1,H1)),add(div(Z1,V1),sub(R1,K1)),add(div(N1,O1),div(J1,K1)),sub(mul(P1,X1),sub(J1,X1)),mul(add(T1,Z1),add(X1,A1)),add(div(H1,H1),mul(I1,C1))

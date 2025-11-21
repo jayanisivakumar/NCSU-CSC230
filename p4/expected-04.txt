@@ -1,0 +1,21 @@
+cmd> list names
+ID  Name                           Sleeps   Cost
+214 Amid the Trees                      4   1200
+823 Blue Ridge Beauty                   6   1200
+512 Coral Reef                         16   4800
+798 Cozy Cabin                          2    780
+654 Fun in the Sun                      8   3400
+624 Life's a Beach                     10   2500
+918 Mountain View                       8   1250
+398 Park Paradise                       4    980
+786 Purple Paradise                    10   4500
+188 Simple Pleasures                    4   1000
+742 Smoky Mountain Hideaway             6   1350
+124 Star of the Sea                     8   2500
+502 Star of the Sea                    16   4700
+424 Starlight, Starbright              12   3500
+204 Sunrise, Sunset                     4   1200
+108 Time for Sun                        6   1500
+345 Woodsy Whimsy                       4   1100
+
+cmd> quit

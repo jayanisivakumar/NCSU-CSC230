@@ -1,0 +1,39 @@
+cmd> reserve 512 7 26 tom@coldmail.com
+
+cmd> reserve 624 7 12 dick@coldmail.com
+
+cmd> reserve 798 10 4 harry@coldmail.com
+
+cmd> reserve 786 9 20 tom@coldmail.com
+
+cmd> reserve 823 9 27 dick@coldmail.com
+
+cmd> reserve 204 6 21 harry@coldmail.com
+
+cmd> reserve 345 11 15 tom@coldmail.com
+
+cmd> reserve 398 11 8 dick@coldmail.com
+
+cmd> reserve 108 7 12 harry@coldmail.com
+
+cmd> cancel 823 9 27
+
+cmd> cancel 624 7 12
+
+cmd> search customer tom@coldmail.com
+ID  Name                           Sleeps   Cost  Date
+345 Woodsy Whimsy                       4   1100 11/15
+512 Coral Reef                         16   4800 07/26
+786 Purple Paradise                    10   4500 09/20
+
+cmd> search customer dick@coldmail.com
+ID  Name                           Sleeps   Cost  Date
+398 Park Paradise                       4    980 11/08
+
+cmd> search customer harry@coldmail.com
+ID  Name                           Sleeps   Cost  Date
+108 Time for Sun                        6   1500 07/12
+204 Sunrise, Sunset                     4   1200 06/21
+798 Cozy Cabin                          2    780 10/04
+
+cmd> quit

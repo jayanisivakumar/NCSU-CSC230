@@ -1,0 +1,10 @@
+cmd> list
+ID  Name                           Sleeps   Cost
+124 Star of the Sea                     8   2500
+188 Simple Pleasures                    4   1000
+201 Mountain Getaway                   10   2000
+204 Sunrise, Sunset                     4   1200
+502 Star of the Sea                    16   4700
+798 Cozy Cabin                          2    780
+
+cmd> quit

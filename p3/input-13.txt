@@ -1,0 +1,9 @@
+8 6
+89,92,90,100, add( add( add( A1, B1 ), C1 ), D1 ), div( E1, 4 )
+85,85,82,97, add( add( add( A2, B2 ), C2 ), D2 ), div( E2, 4 )
+77,63,86,83, add( add( add( A3, B3 ), C3 ), D3 ), div( E3, 4 )
+83,87,87,92, add( add( add( A4, B4 ), C4 ), D4 ), div( E4, 4 )
+81,80,84,80, add( add( add( A5, B5 ), C5 ), D5 ), div( E5, 4 )
+87,91,91,89, add( add( add( A6, B6 ), C6 ), D6 ), div( E6, 4 )
+99,100,94,95, add( add( add( A7, B7 ), C7 ), D7 ), div( E7, 4 )
+88,87,81,92, add( add( add( A8, B8 ), C8 ), D8 ), div( E8, 4 )

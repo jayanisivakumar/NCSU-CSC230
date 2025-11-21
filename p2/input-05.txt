@@ -1,0 +1,2 @@
+string,integer,float5,string,float2
+Planet Name,Discovery Year,Orbital Period (days),Spectral Type,Stellar Temperature (K)

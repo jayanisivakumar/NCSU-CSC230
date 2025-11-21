@@ -1,0 +1,11 @@
+string,integer,float5,string,float2
+Planet Name,Discovery Year,Orbital Period (days),Spectral Type,Stellar Temperature (K)
+EPIC 220492298 b,2021,0.762406,,5620
+TOI-1468 b,2022,,M3.0 V,3496
+K2-221 b,2018,2.399094,,5716
+TOI-1468 c,2022,,M3.0 V,3496
+K2-222 c,2018,15.388825,,5934
+HATS-71 a,2020,3.7955202,M3 V,3405
+TOI-3693 b,2022,9.088516,,5321
+TOI-2046 b,,1.4971842,F8 V,5321
+HATS-68 b,2018,3.58630,,5704.8

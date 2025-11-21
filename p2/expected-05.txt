@@ -1,0 +1,1 @@
+Planet Name,Discovery Year,Orbital Period (days),Spectral Type,Stellar Temperature (K)

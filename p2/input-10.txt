@@ -1,0 +1,4 @@
+string,int,float2,string
+name,id,GPA,major
+Titus,100,3.14,CSC230
+Haque,0,3.8,CSC111

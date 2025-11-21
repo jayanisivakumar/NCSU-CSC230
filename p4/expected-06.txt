@@ -1,0 +1,20 @@
+cmd> search date 9 6
+ID  Name                           Sleeps   Cost
+798 Cozy Cabin                          2    780
+214 Amid the Trees                      4   1200
+398 Park Paradise                       4    980
+742 Smoky Mountain Hideaway             6   1350
+823 Blue Ridge Beauty                   6   1200
+918 Mountain View                       8   1250
+512 Coral Reef                         16   4800
+
+cmd> search date 8 23
+ID  Name                           Sleeps   Cost
+204 Sunrise, Sunset                     4   1200
+214 Amid the Trees                      4   1200
+786 Purple Paradise                    10   4500
+424 Starlight, Starbright              12   3500
+502 Star of the Sea                    16   4700
+512 Coral Reef                         16   4800
+
+cmd> quit

@@ -1,0 +1,16 @@
+cmd> reserve 108 7 12 sally@coldmail.com
+
+cmd> reserve 214 8 23 sally@coldmail.com
+
+cmd> reserve 214 7 12 sally@coldmail.com
+
+cmd> reserve 424 6 14 sally@coldmail.com
+
+cmd> search customer sally@coldmail.com
+ID  Name                           Sleeps   Cost  Date
+108 Time for Sun                        6   1500 07/12
+214 Amid the Trees                      4   1200 07/12
+214 Amid the Trees                      4   1200 08/23
+424 Starlight, Starbright              12   3500 06/14
+
+cmd> quit

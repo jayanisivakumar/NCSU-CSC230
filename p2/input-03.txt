@@ -1,0 +1,7 @@
+date,string,string
+birthdate (YYYY-MM-DD),first name, last name
+1999-03-08,Bo,Jangles
+2001-04-28,Bo,Didley
+2025-01-22,Snow,Day
+1964-09-01,Roy,Rogers
+1988-12-25,First,Noel

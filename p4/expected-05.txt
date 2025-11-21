@@ -1,0 +1,82 @@
+cmd> list available
+ID  Name                           Sleeps   Cost  Date
+108 Time for Sun                        6   1500 06/07
+108 Time for Sun                        6   1500 06/21
+108 Time for Sun                        6   1500 07/12
+124 Star of the Sea                     8   2500 06/21
+124 Star of the Sea                     8   2500 07/05
+124 Star of the Sea                     8   2500 08/09
+124 Star of the Sea                     8   2500 08/16
+188 Simple Pleasures                    4   1000 06/07
+188 Simple Pleasures                    4   1000 06/21
+188 Simple Pleasures                    4   1000 07/12
+204 Sunrise, Sunset                     4   1200 06/21
+204 Sunrise, Sunset                     4   1200 06/28
+204 Sunrise, Sunset                     4   1200 07/12
+204 Sunrise, Sunset                     4   1200 08/16
+204 Sunrise, Sunset                     4   1200 08/23
+214 Amid the Trees                      4   1200 07/12
+214 Amid the Trees                      4   1200 08/16
+214 Amid the Trees                      4   1200 08/23
+214 Amid the Trees                      4   1200 09/06
+214 Amid the Trees                      4   1200 09/13
+345 Woodsy Whimsy                       4   1100 11/01
+345 Woodsy Whimsy                       4   1100 11/08
+345 Woodsy Whimsy                       4   1100 11/15
+345 Woodsy Whimsy                       4   1100 11/22
+345 Woodsy Whimsy                       4   1100 11/29
+398 Park Paradise                       4    980 06/21
+398 Park Paradise                       4    980 09/06
+398 Park Paradise                       4    980 10/04
+398 Park Paradise                       4    980 11/08
+398 Park Paradise                       4    980 11/29
+424 Starlight, Starbright              12   3500 06/14
+424 Starlight, Starbright              12   3500 07/12
+424 Starlight, Starbright              12   3500 08/16
+424 Starlight, Starbright              12   3500 08/23
+502 Star of the Sea                    16   4700 06/14
+502 Star of the Sea                    16   4700 06/21
+502 Star of the Sea                    16   4700 07/26
+502 Star of the Sea                    16   4700 08/23
+502 Star of the Sea                    16   4700 10/25
+512 Coral Reef                         16   4800 06/07
+512 Coral Reef                         16   4800 06/14
+512 Coral Reef                         16   4800 06/21
+512 Coral Reef                         16   4800 07/26
+512 Coral Reef                         16   4800 08/23
+512 Coral Reef                         16   4800 08/30
+512 Coral Reef                         16   4800 09/06
+512 Coral Reef                         16   4800 09/13
+512 Coral Reef                         16   4800 10/18
+624 Life's a Beach                     10   2500 07/05
+624 Life's a Beach                     10   2500 07/12
+624 Life's a Beach                     10   2500 07/19
+624 Life's a Beach                     10   2500 07/26
+654 Fun in the Sun                      8   3400 06/14
+654 Fun in the Sun                      8   3400 07/12
+654 Fun in the Sun                      8   3400 08/09
+654 Fun in the Sun                      8   3400 08/16
+742 Smoky Mountain Hideaway             6   1350 07/05
+742 Smoky Mountain Hideaway             6   1350 07/19
+742 Smoky Mountain Hideaway             6   1350 09/06
+742 Smoky Mountain Hideaway             6   1350 09/20
+786 Purple Paradise                    10   4500 08/16
+786 Purple Paradise                    10   4500 08/23
+786 Purple Paradise                    10   4500 09/20
+786 Purple Paradise                    10   4500 09/27
+798 Cozy Cabin                          2    780 06/21
+798 Cozy Cabin                          2    780 09/06
+798 Cozy Cabin                          2    780 10/04
+798 Cozy Cabin                          2    780 11/08
+798 Cozy Cabin                          2    780 11/29
+823 Blue Ridge Beauty                   6   1200 09/06
+823 Blue Ridge Beauty                   6   1200 09/13
+823 Blue Ridge Beauty                   6   1200 09/27
+823 Blue Ridge Beauty                   6   1200 10/18
+918 Mountain View                       8   1250 06/21
+918 Mountain View                       8   1250 08/16
+918 Mountain View                       8   1250 09/06
+918 Mountain View                       8   1250 10/11
+918 Mountain View                       8   1250 11/15
+
+cmd> quit

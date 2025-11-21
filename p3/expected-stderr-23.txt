@@ -1,0 +1,1 @@
+usage: calc INPUT-FILE [OUTPUT-FILE]

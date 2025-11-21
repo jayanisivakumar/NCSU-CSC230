@@ -1,0 +1,7 @@
+date,string,integer,float2,float5,string
+Start Date, Name ,Credits,Balance,GPA,Major
+2024-01-05,Moore,32,300.14,3.772,CSC
+08-23-2020,Hansen,58,-101.3,3.813,CYB
+2022-06-34,Stuben,85,-20.15,3.245,MTH
+08-22-2021,Bookman,12,1203.2,2.974,PHY
+01/05/2025,Zellman,91,489,4.00,ECE
